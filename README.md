@@ -15,6 +15,9 @@ A complete desktop-based DBMS project to manage bike rentals using Python, Tkint
 ![Home](https://github.com/aditya-raaj/Rental-Rides/blob/main/archive/main%20menu.png)
 *(Dashboard preview showcasing Home page)*
 
+![Rentals](https://github.com/aditya-raaj/Rental-Rides/blob/main/archive/currentRentals.png)
+
+*(Dialog box showcasing the rentals)*
 
 
 
