@@ -14,7 +14,7 @@ mainWindow.configure(background="light yellow")
 
 # Connect DB
 try:
-    db = dbTransactions("localhost", "root", "Aditya@2003", "bike_rental_db")
+    db = dbTransactions("localhost", "root", "your_mysql_password", "bike_rental_db")
 except Exception as e:
     messagebox.showwarning("Database Error", f"Failed to connect to database!\n{e}")
     db = None
